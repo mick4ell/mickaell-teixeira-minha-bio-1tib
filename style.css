@@ -1,3 +1,15 @@
 .cor-titulo{
     color: rgb(50, 69, 215);
+    text-align: center;
+}
+.inf{
+    text-align: center;
+}
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: rgba(172, 172, 172, 0.678);
 }
