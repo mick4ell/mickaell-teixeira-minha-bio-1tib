@@ -1,5 +1,5 @@
 .cor-titulo{
-    color: rgb(50, 69, 215);
+    color: rgba(51, 22, 213, 0.778);
     text-align: center;
 }
 .inf{
@@ -9,7 +9,12 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 body{
     background-color: rgba(172, 172, 172, 0.678);
+}
+.lista{
+     display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
 }
