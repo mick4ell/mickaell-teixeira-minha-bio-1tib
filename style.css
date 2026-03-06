@@ -12,9 +12,5 @@
     text-align: center;
 }
 body{
-    background-color: rgba(172, 172, 172, 0.678);
-}
-.lista{
-     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
+    background-color: rgba(172, 172, 172, 0.678)
 }
