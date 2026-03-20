@@ -23,3 +23,7 @@ ul{
 p{ 
     white-space: nowrap;
 }
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
